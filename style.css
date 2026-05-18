@@ -1,0 +1,38 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    background-image:url('bg.jpg');
+    background-size:cover;
+    background-position:center;
+}
+
+h1{
+    color:darkblue;
+    margin-top:30px;
+}
+
+nav{
+    margin-bottom:20px;
+}
+
+nav a{
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+    color:black;
+}
+
+.box{
+    width:60%;
+    margin:auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0px 0px 10px gray;
+}
+
+.profile{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+}
